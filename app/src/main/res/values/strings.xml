@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDlZrX4BjCMJHE0iQ0PgEPjK3P8A9r4f8o</string>
+    <string name="app_name">Kotlin_Google_Map</string>
+</resources>
